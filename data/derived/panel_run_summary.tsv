@@ -1,0 +1,2 @@
+run	n_loci	mean_He	min_He	median_He	max_He	mean_snps_per_locus	median_snps_per_locus	n_primers	n_primer_pairs	mean_primer_tm	mean_amplicon_snp_count	mean_amplicon_length	median_amplicon_length	min_amplicon_length	max_amplicon_length
+./data/raw/red_drum_11_75	500	0.70672	0.48	0.71	0.815	3.782	4	1000	500	59.505098	3.782	136.762	136	79	174
