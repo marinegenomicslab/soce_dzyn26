@@ -3,3 +3,5 @@
 .RData
 .Ruserdata
 .Rproj
+data/raw/He_50_EGULF.txt
+data/raw/He_50_WGULF.txt

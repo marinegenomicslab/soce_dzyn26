@@ -1,0 +1,136 @@
+soce-0005-F versus soce-0267-R
+Positions tried: 106
+Bonding positions: 101  (worst one shown here)
+dG = -10.9
+5'-ACACTCTTTCCCTACACGACGCTCTTCCGATCTTGAAGCTCAGAGTGTGGTGG-3'
+                                        ||||||||||||||||
+                                     3'-CGAGTCTCACACCACCAAGTTCTAGCCTTCTCGTGTGCAGACTTGAGGTCAGTG-5'
+
+soce-0036-F versus soce-0310-F
+Positions tried: 105
+Bonding positions: 88  (worst one shown here)
+dG = -8.8
+5'-ACACTCTTTCCCTACACGACGCTCTTCCGATCTGGAGGTGGGAAGGCAGAAAA-3'
+                              xxx||||xx|xx|||||||||||xxx
+                           3'-AACAGACGACATCCCTTCCGTCTAGCCTTCTCGCAGCACATCCCTTTCTCACA-5'
+
+soce-0436-F versus soce-0436-F
+Positions tried: 105
+Bonding positions: 93  (worst one shown here)
+dG = -8.55
+5'-ACACTCTTTCCCTACACGACGCTCTTCCGATCTATGGAAGAGCTCACACTGGC-3'
+             x|x|xxxxxx||||||||xxxxxxx||||||||xxxxxx|x|x
+          3'-CGGTCACACTCGAGAAGGTATCTAGCCTTCTCGCAGCACATCCCTTTCTCACA-5'
+
+soce-0177-R versus soce-0427-R
+Positions tried: 107
+Bonding positions: 97  (worst one shown here)
+dG = -8.4
+5'-GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTTGGCTATATATTGGCGGCCA-3'
+                                      x|xxxxxx|||||||||||
+                                   3'-TCTTAGACTAACCGCCGGTTTCTAGCCTTCTCGTGTGCAGACTTGAGGTCAGTG-5'
+
+soce-0147-R versus soce-0232-F
+Positions tried: 108
+Bonding positions: 100  (worst one shown here)
+dG = -8.13
+5'-GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTTGGACACTCACACACACTTGA-3'
+                                        ||||||||||||||xxxx
+                                     3'-TGTGAGTGTGTGTGTGGATGTTCTAGCCTTCTCGCAGCACATCCCTTTCTCACA-5'
+
+soce-0205-R versus soce-0322-F
+Positions tried: 106
+Bonding positions: 101  (worst one shown here)
+dG = -7.9
+5'-GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTCGCTCAACCACTGCTCAAAC-3'
+                                        x|||||||||||||xx|
+                                     3'-TGTTGGTGACGAGTCGGAAATCTAGCCTTCTCGCAGCACATCCCTTTCTCACA-5'
+
+soce-0142-F versus soce-0381-R
+Positions tried: 106
+Bonding positions: 100  (worst one shown here)
+dG = -7.77
+5'-ACACTCTTTCCCTACACGACGCTCTTCCGATCTTGTTTGAGCACCCAGGTGTT-3'
+                              xxxx||||||||||||||xxx|xxxx
+                           3'-CACCGAACAAACTCGTGGACTCTAGCCTTCTCGTGTGCAGACTTGAGGTCAGTG-5'
+
+soce-0267-R versus soce-0470-R
+Positions tried: 107
+Bonding positions: 96  (worst one shown here)
+dG = -7.7
+5'-GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTTGAACCACCACACTCTGAGC-3'
+                                     x||x||||||||||||||x|
+                                  3'-TCTCGGTGGTGTGAGACTTGTCTAGCCTTCTCGTGTGCAGACTTGAGGTCAGTG-5'
+
+soce-0169-R versus soce-0169-R
+Positions tried: 107
+Bonding positions: 92  (worst one shown here)
+dG = -7.7
+5'-GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTGGGAAGTCTTGGCCCAGATC-3'
+                                ||||||||xxxxxxxxx||||||||
+                             3'-CTAGACCCGGTTCTGAAGGGTCTAGCCTTCTCGTGTGCAGACTTGAGGTCAGTG-5'
+
+soce-0135-R versus soce-0486-F
+Positions tried: 106
+Bonding positions: 99  (worst one shown here)
+dG = -7.5
+5'-GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTGAAGAAACAAGGCTGCTGGG-3'
+                                          xxx|x||||||||||
+                                       3'-AAATACCGACGACCCAACGATCTAGCCTTCTCGCAGCACATCCCTTTCTCACA-5'
+
+soce-0046-R versus soce-0085-F
+Positions tried: 109
+Bonding positions: 100  (worst one shown here)
+dG = -7.41
+5'-GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTAGAGAGGAGCAGAGCTGTCA-3'
+                                          x||||||||||||xx
+                                       3'-TCTCGTCTCGACAACTGTAATGTTCTAGCCTTCTCGCAGCACATCCCTTTCTCACA-5'
+
+soce-0035-F versus soce-0172-R
+Positions tried: 106
+Bonding positions: 99  (worst one shown here)
+dG = -7.29
+5'-ACACTCTTTCCCTACACGACGCTCTTCCGATCTAGGGAGCTCGGAATAAAGCC-3'
+                                    xx|||||||||||||xxx|x
+                                 3'-CTCCTCGAGCCTTATGCAGCTCTAGCCTTCTCGTGTGCAGACTTGAGGTCAGTG-5'
+
+soce-0194-R versus soce-0358-F
+Positions tried: 109
+Bonding positions: 103  (worst one shown here)
+dG = -7.19
+5'-GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTTCCCAAAATGAGCACTGACCA-3'
+                                        xx||||||||||||||xx
+                                     3'-TGTTTACTCGTGACTGTGTTGGTCTAGCCTTCTCGCAGCACATCCCTTTCTCACA-5'
+
+soce-0378-F versus soce-0378-F
+Positions tried: 105
+Bonding positions: 88  (worst one shown here)
+dG = -7.17
+5'-ACACTCTTTCCCTACACGACGCTCTTCCGATCTTGTGTCCGGAAGAGCTGAAC-3'
+                  xxxxx|||||||||xx|xxxx|xx|||||||||xxxxx
+               3'-CAAGTCGAGAAGGCCTGTGTTCTAGCCTTCTCGCAGCACATCCCTTTCTCACA-5'
+
+soce-0125-F versus soce-0214-R
+Positions tried: 103
+Bonding positions: 95  (worst one shown here)
+dG = -7.1
+5'-ACACTCTTTCCCTACACGACGCTCTTCCGATCTGCCAGGGCTCACAGGAT-3'
+                                      |||||||||||xxx|
+                                   3'-GTCCCGAGTGTGTCAGTAGTTCTAGCCTTCTCGTGTGCAGACTTGAGGTCAGTG-5'
+
+soce-0017-F versus soce-0337-R
+Positions tried: 106
+Bonding positions: 100  (worst one shown here)
+dG = -7.08
+5'-ACACTCTTTCCCTACACGACGCTCTTCCGATCTTGAGTGGCGTCTGTTTGGAT-3'
+                                x|xx|xx|||||||||||xxx|||
+                             3'-AACTAAACACCGCAGACACCTCTAGCCTTCTCGTGTGCAGACTTGAGGTCAGTG-5'
+
+soce-0293-R versus soce-0436-F
+Positions tried: 106
+Bonding positions: 98  (worst one shown here)
+dG = -7.05
+5'-GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTCCGGGGGAGTGTTACTGTTC-3'
+              x|xxxx|||x||||||||xxxxxx|||xx|||x||xxxxxxxx
+           3'-CGGTCACACTCGAGAAGGTATCTAGCCTTCTCGCAGCACATCCCTTTCTCACA-5'
+
