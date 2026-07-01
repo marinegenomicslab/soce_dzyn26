@@ -1,8 +1,6 @@
 ---
 title: "soce_dzyn26_initial_primer_design"
-format:
-  html:
-    output-dir: docs
+format: html
 
 execute:
   warning: false
