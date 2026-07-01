@@ -39,7 +39,7 @@ There were several adjustments that were required before the pipeline could func
 
 QC of the genotyping can be found here:
 
-[View QC results](multiqc.html)
+[View QC results](./multiqc.html)
 
 The working SNP set used for primer design was made from manually extracting biallelic snps from the pass-maf-0.05 bcf file generated from the pipeline.
 
